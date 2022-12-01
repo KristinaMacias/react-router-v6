@@ -1,12 +1,10 @@
 import React from "react";
-// import Links from './Links';
 
 function Landing() {
     return (
-        <div>
-            {/* <Links />    */}
-            <h1>Welcome Home!</h1>
-        </div>
+        <>
+            <h1>You are looking at the Landing component!</h1>
+        </>
     )
 }
 
